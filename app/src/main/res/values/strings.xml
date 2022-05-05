@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lessonlocation</string>
+    <string name="no_location_title">No location permission given</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="map_button">Map</string>
+
+    <string name="marker_text">Here is my marker</string>
+</resources>
